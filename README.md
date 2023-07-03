@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Git testing
 *.js  @danycd
-/my-app/src/ @Shadowrunner11
+/my-app/public/ @Shadowrunner11
 
 ## Available Scripts
 
